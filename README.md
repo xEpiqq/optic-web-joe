@@ -5,6 +5,8 @@
 
 <p align="center">
  The fastest way to build apps with Next.js and Supabase
+
+ ////with SUPABASE
 </p>
 
 <p align="center">
